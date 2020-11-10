@@ -1,2 +1,3 @@
 # coursera-data-science
-To contain files necessary in coursera data-science specialisation
+To contain files necessary in coursera data-science specialisation.
+Testing CLI.
